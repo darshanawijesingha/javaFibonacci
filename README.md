@@ -30,7 +30,7 @@ The application allows users to input how many terms of the Fibonacci sequence t
 
 ### Steps
 
-1. Save the Java code in a file named `FibonacciGUI.java`
+1. Save the Java code in a file named `GUI.java`
 2. Open a terminal or command prompt in that directory
 3. Compile the program:
 
@@ -48,14 +48,10 @@ The application allows users to input how many terms of the Fibonacci sequence t
 - The Fibonacci sequence is computed iteratively
 - The result is displayed in the GUI
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License. Use it freely for learning or enhancement.
 
 ---
 
 ## 👤 Author
 
-Created by [Darshana Wijesinghe ]. Contributions are welcome!
+Created by [Darshana Wijesinghe 2022]. Contributions are welcome!
